@@ -6,6 +6,6 @@ setup(
     description='Python Onion Redis call',
     author='Vitche Research Team Developer',
     author_email='developer@vitche.com',
-    py_modules=['clients'],
+    py_modules=['onion_redis.calls'],
     install_requires=['requests']
 )
